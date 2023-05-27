@@ -1,4 +1,4 @@
-# Laravel Inertia ,vite and vue 3 as of 27th May 2023
+# Laravel with Inertia SSR, vite and vue 3 and Element UI as of 27th May 2023.
 
 ## Steps in creating
 
