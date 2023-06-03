@@ -31,6 +31,7 @@
 </template>
 <script setup>
 import { Link, router } from '@inertiajs/vue3';
+import { ElButton } from 'element-plus';
 //Javascript logic is written here
 defineProps({
     herbs: Object,
